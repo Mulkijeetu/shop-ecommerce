@@ -2,7 +2,7 @@
   "name": "ecommerce-front",
   "version": "0.1.0",
   "engines": {
-    "node": "v14.0.0"
+    "node": "14.16.1"
   },
   "private": true,
   "dependencies": {
